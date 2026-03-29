@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL5_103022400017\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E47E83EB-69BC-4FA1-A57E-538779849F2C}|TP_MODUL5_103022400017\\TP_MODUL5_103022400017.csproj|f:\\folder ghinan\\visual studio\\tp_modul5_103022400017\\tp_modul5_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E47E83EB-69BC-4FA1-A57E-538779849F2C}|TP_MODUL5_103022400017\\TP_MODUL5_103022400017.csproj|solutionrelative:tp_modul5_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C56EEE6-0414-98FB-F7C4-01810DE010FB}|TP_MODUL5_103022400017\\TP_MODUL5_103022400017.csproj|f:\\folder ghinan\\visual studio\\tp_modul5_103022400017\\tp_modul5_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C56EEE6-0414-98FB-F7C4-01810DE010FB}|TP_MODUL5_103022400017\\TP_MODUL5_103022400017.csproj|solutionrelative:tp_modul5_103022400017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C56EEE6-0414-98FB-F7C4-01810DE010FB}|TP_MODUL5_103022400017\\TP_MODUL5_103022400017.csproj|f:\\folder ghinan\\visual studio\\tp_modul5_103022400017\\tp_modul5_103022400017\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C56EEE6-0414-98FB-F7C4-01810DE010FB}|TP_MODUL5_103022400017\\TP_MODUL5_103022400017.csproj|solutionrelative:tp_modul5_103022400017\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HaloGeneric.cs",
+              "DocumentMoniker": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL5_103022400017\\TP_MODUL5_103022400017\\HaloGeneric.cs",
+              "RelativeDocumentMoniker": "TP_MODUL5_103022400017\\HaloGeneric.cs",
+              "ToolTip": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL5_103022400017\\TP_MODUL5_103022400017\\HaloGeneric.cs",
+              "RelativeToolTip": "TP_MODUL5_103022400017\\HaloGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T18:37:54.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +45,7 @@
               "RelativeDocumentMoniker": "TP_MODUL5_103022400017\\Program.cs",
               "ToolTip": "F:\\Folder GHINAN\\Visual Studio\\TP_MODUL5_103022400017\\TP_MODUL5_103022400017\\Program.cs",
               "RelativeToolTip": "TP_MODUL5_103022400017\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T18:34:22.024Z",
               "EditorCaption": ""
